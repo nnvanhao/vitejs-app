@@ -29,7 +29,10 @@ export default function Root() {
 
   return (
     <div>
-      <Button>Click me</Button>
+      <span>
+        Collaboration with different teams to improve the process & to bring
+        integrity as a whole -
+      </span>
     </div>
   );
 }
