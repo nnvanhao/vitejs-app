@@ -13,7 +13,8 @@
       "@components/*": ["components/*"],
       "@routers/*": ["routers/*"],
       "@pages/*": ["pages/*"],
-      "@utils/*": ["utils/*"]
+      "@utils/*": ["utils/*"],
+      "@lib/*": ["lib/*"]
     },
 
     /* Bundler mode */
